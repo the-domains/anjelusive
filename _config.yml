@@ -1,6 +1,6 @@
 name: anjelusive
 favicon: null
-layout_spectrum: 0.04056832636706531
+layout_spectrum: 0.49333
 typography_spectrum: 0.34008857677690685
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.7958342893980443
+    - '#141414'
+    - '#7f7e7c'
+    - '#4d4d4d'
+    - '#f3f0ed'
+    - '#a5a29e'
+  brandStrength: 0.9375
   lightness: 0.7668148698285222
   saturation: 0.6216205819509923
   rhythmicContrast: 0.8852112670429051
